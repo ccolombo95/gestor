@@ -1,0 +1,35 @@
+.fc{
+  max-height: 720px;
+}
+
+/* Cambiar el color y tamaño del título */
+.TitleCalendario {
+  color: black; /* Verde */
+  font-family: "roboto", sans-serif; /* Fuente */
+  font-weight: 400; /* Negrita */
+  line-height: 21px;
+}
+
+/* Personalizar los botones (prev, next, today) */
+.fc-button {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0) !important;
+  border: 0.25px solid #C2C2C2 !important;
+  border-radius: 6px !important;
+  box-shadow: 0px 4px 4px -1px rgba(0, 0, 0, 0.38) !important;
+  -webkit-box-shadow: 0px 4px 4px -1px rgba(0, 0, 0, 0.38) !important;
+  -moz-box-shadow: 0px 4px 4px -1px rgba(0, 0, 0, 0.38) !important;
+}
+
+.fc-myCustomButton1-button {
+  background-color: #ffffff !important; 
+  font-size: 18px  !important; /* Tamaño de letra */
+  color: black  !important; /* Verde */
+  font-family: "roboto", sans-serif  !important; /* Fuente */
+  font-weight: 400  !important; /* Negrita */
+  line-height: 21px  !important;
+  border: 0px solid #c5c5c5 !important;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.38) !important;
+  -webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.38) !important;
+  -moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.38) !important;
+}
